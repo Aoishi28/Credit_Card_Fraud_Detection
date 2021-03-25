@@ -9,3 +9,18 @@ The results are as follows :
 
 Performance and Confusion Matrix using Random Forest (on imbalanced dataset ):
 
+
+![](Metric_RF.png)
+![](Confusion_Matrix_RF.png)
+
+Performance and Confusion Matrix using Random Forest after implementing Undersampling :
+
+
+![](Metric_undersampling.png)
+![](Confusion_Matrix_Undersampling.png)
+
+Performance and Confusion Matrix using Random Forest after implementing Oversampling (SMOTE):
+
+
+![](Metric_Oversampling.png)
+![](Confusion_Matrix_Oversampling.png)
